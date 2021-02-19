@@ -1,0 +1,5 @@
+1.kafka为什么快？
+2.kafka 高级消费者、低级消费者
+3.schema-regist 压缩数据
+4.kafka 水印机制
+5.利用 kafka 进行 binlog 数据同步
