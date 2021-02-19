@@ -17,6 +17,7 @@
         <module>jvm</module>
         <module>sort-algor</module>
         <module>leetcode-algor</module>
+        <module>hql</module>
     </modules>
 
     <properties>
